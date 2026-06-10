@@ -1,0 +1,6 @@
+from datos.data_almacenada.info_version import numero_version
+from datos.data_almacenada.info_menus import datos_menu,opciones_validas_menu,datos_sub_menu,mensaje_volver,opciones_validas_sub_menu,mensaje_opcion_incorrecta,titulo_app
+from datos.data_almacenada.info_libros import listado_libros
+from datos.data_almacenada.info_usuarios import listado_usuarios
+from datos.data_libros import escribir_data_libros
+from datos.data_usuarios import escribir_data_usuarios
